@@ -1,6 +1,6 @@
 body {
   background-color: #2d2d2d;
-  color: #ffc266;
+  color: white;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -14,7 +14,7 @@ body {
 #myBar {
   width: 0%;
   height: 5px;
-  background-color: #ffc266;
+  background-color: white;
   border-radius: 10px;
 }
 
@@ -47,7 +47,7 @@ body {
 
 .infos-ctn>div {
   margin-bottom: 8px;
-  color: #ffc266;
+  color: white;
 }
 
 .first-btn {
@@ -82,7 +82,7 @@ body {
 }
 
 .playlist-track-ctn:last-child {
-  /*border: 1px solid #ffc266; */
+  /*border: 1px solid white; */
 }
 
 .playlist-track-ctn>div {
@@ -108,7 +108,7 @@ body {
 
 .active-track {
   background: #4d4d4d;
-  color: #ffc266 !important;
+  color: white !important;
   font-weight: bold;
 
 }
@@ -116,7 +116,7 @@ body {
 .active-track>.playlist-info-track,
 .active-track>.playlist-duration,
 .active-track>.playlist-btn-play {
-  color: #ffc266 !important;
+  color: white !important;
 }
 
 
@@ -127,6 +127,6 @@ body {
 }
 
 .fas {
-  color: #ffc266;
+  color: white;
   font-size: 20px;
 }
