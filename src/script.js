@@ -1,6 +1,6 @@
 var listAudio = [
   {
-    name: "Web3Privacy Radio - Track 001",
+    name: "Wassim Z Alsindi x 0xSalon - Doubt: The First 5000 Years",
     file: "https://web3privacy.github.io/web3privacy-radio/audio/track001.mp3",
     duration: "40:57"
   }
