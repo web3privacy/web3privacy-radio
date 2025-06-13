@@ -1,7 +1,3 @@
-# HTML Audio Player
+# Web3Privacy Radio
 
-A Pen created on CodePen.
-
-Original URL: [https://codepen.io/vanderzak/pen/BayjVep](https://codepen.io/vanderzak/pen/BayjVep).
-
-HTML Audio Player
+https://web3privacy.github.io/web3privacy-radio/
