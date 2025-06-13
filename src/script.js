@@ -1,7 +1,7 @@
 var listAudio = [
   {
     name: "Web3Privacy Radio - Track 001",
-    file: "/audio/track001.mp3",
+    file: "https://web3privacy.github.io/web3privacy-radio/audio/track001.mp3",
     duration: "40:57"
   }
 ]
