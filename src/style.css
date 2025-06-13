@@ -1,5 +1,5 @@
 body {
-  background-color: #2d2d2d;
+  background-color: black;
   color: white;
   font-family: 'Roboto', sans-serif;
 }
@@ -64,13 +64,26 @@ body {
   text-align: center;
 }
 
+.logo {
+  width: 540px;
+  margin: auto;
+  margin-top: 25px;
+}
+
+.logo img {
+  width: 540px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .player-ctn {
   border-radius: 15px;
   width: 540px;
   padding: 10px;
   background-color: #373737;
   margin: auto;
-  margin-top: 100px;
+  margin-top: 25px;
 }
 
 .playlist-track-ctn {
