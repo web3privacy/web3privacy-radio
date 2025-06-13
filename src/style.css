@@ -97,7 +97,7 @@ body {
 .playlist-duration {
   padding-top: 7px;
   padding-bottom: 7px;
-  color: #e9cc95;
+  color: white;
   font-size: 14px;
   pointer-events: none;
 }
